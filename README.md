@@ -19,4 +19,5 @@ I'm a Junior Web Developer, tending to find the development team.
     <img alt="Github" title="Github" src="https://skillicons.dev/icons?i=github" />
     <img alt="PHP" title="PHP" src="https://skillicons.dev/icons?i=php" />
     <img alt="Mysql" title="Mysql" src="https://skillicons.dev/icons?i=mysql" />
+    <img alt="Markdown" title="Markdown" src="https://skillicons.dev/icons?i=md" />
 </a>
