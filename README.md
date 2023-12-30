@@ -5,13 +5,13 @@ I'm Zana Shokrii a Junior Web Developer, trying to learn more about web
 <br />
 
 <a href="https://react.dev" target="_blank" style="text-decoration: none;">
-    <img alt="React" title="REACT" src="https://skillicons.dev/icons?i=react" />
+    <img alt="React" title="React" src="https://skillicons.dev/icons?i=react" />
 </a>
 <a href="https://html.com" target="_blank" style="text-decoration: none;">
-    <img alt="Html" title="HTML" src="https://skillicons.dev/icons?i=html" />
+    <img alt="Html" title="Html" src="https://skillicons.dev/icons?i=html" />
 </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" style="text-decoration: none;">
-    <img alt="Css" title="CSS" src="https://skillicons.dev/icons?i=css" />
+    <img alt="Css" title="Css" src="https://skillicons.dev/icons?i=css" />
 </a>
 <a href="https://www.javascript.com" target="_blank" style="text-decoration: none;">
     <img alt="Javascript" title="Javascript" src="https://skillicons.dev/icons?i=js" />
