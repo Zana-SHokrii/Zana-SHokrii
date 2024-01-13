@@ -4,10 +4,10 @@ I'm Zana Shokrii a Junior Web Developer, trying to learn more about web
 
 <br />
 
-    <img alt="React" title="React" src="https://skillicons.dev/icons?i=react" />
+<img alt="React" title="React" src="https://skillicons.dev/icons?i=react" />
 
 
-    <img alt="Html" title="Html" src="https://skillicons.dev/icons?i=html" />
+<img alt="Html" title="Html" src="https://skillicons.dev/icons?i=html" />
 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" style="text-decoration: none;">
     <img alt="Css" title="Css" src="https://skillicons.dev/icons?i=css" />
