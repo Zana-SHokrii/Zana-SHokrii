@@ -4,7 +4,7 @@ I'm Zana Shokrii a Junior Web Developer in SmartHand Company, trying to learn mo
 
 <br />
 
-<div style='display: flex; gap: 8px; flex-wrap: wrap;'>
+<div style='display: flex; gap: 12px; flex-wrap: wrap;'>
 <img alt="React" title="React" src="https://skillicons.dev/icons?i=react" />
 
 <img alt="Html" title="Html" src="https://skillicons.dev/icons?i=html" />
